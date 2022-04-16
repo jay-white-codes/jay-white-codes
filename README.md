@@ -10,7 +10,7 @@
    <ul>
     <li>Full-Stack Web Development through a course on Udemy!</li>
     <li>Application Development through Summit Academy OIC!</li>
-  <ul>
+  </ul>
 <p>💞️ I’m looking to collaborate on uhm... a project? Not too sure how to answer this one. I'm new to this?</p>
 <p>📫 How to reach me? You can...</p>
     <ul>
