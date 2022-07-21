@@ -1,4 +1,4 @@
-<h1>👋 Hi, I’m @jay-white-codes</h1>
+<!-- <h1>👋 Hi, I’m @jay-white-codes</h1>
 <p>👀 I’m interested in...</p>
   <ul>
     <li>Software Development, I'm going to school to work on apps</li>
@@ -16,7 +16,7 @@
     <ul>
       <li> Email me at jameswhite0127@gmail.com</li>
       <li>Call or text me at 612-258-1284 (personal cell)</li>
-   </ul>
+   </ul> --->
 
 <!---
 jay-white-codes/jay-white-codes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
